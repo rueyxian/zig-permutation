@@ -1,4 +1,4 @@
-# zig-permutation
+# permutation
 
 A permutation library for zig.
 
